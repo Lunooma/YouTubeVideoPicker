@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "I/R78F4wJ/A=",
+  "success": true,
+  "projectFilePath": "/home/luna/Documents/C#/Randomstuff/Randomstuff.csproj",
+  "expectedPackageFiles": [
+    "/home/luna/.nuget/packages/google.apis/1.76.0/google.apis.1.76.0.nupkg.sha512",
+    "/home/luna/.nuget/packages/google.apis.auth/1.76.0/google.apis.auth.1.76.0.nupkg.sha512",
+    "/home/luna/.nuget/packages/google.apis.core/1.76.0/google.apis.core.1.76.0.nupkg.sha512",
+    "/home/luna/.nuget/packages/google.apis.youtube.v3/1.76.0.4262/google.apis.youtube.v3.1.76.0.4262.nupkg.sha512",
+    "/home/luna/.nuget/packages/newtonsoft.json/13.0.4/newtonsoft.json.13.0.4.nupkg.sha512",
+    "/home/luna/.nuget/packages/system.codedom/7.0.0/system.codedom.7.0.0.nupkg.sha512",
+    "/home/luna/.nuget/packages/system.management/7.0.2/system.management.7.0.2.nupkg.sha512",
+    "/home/luna/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.12/microsoft.aspnetcore.app.ref.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
