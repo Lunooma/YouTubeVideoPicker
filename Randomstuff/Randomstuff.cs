@@ -173,8 +173,11 @@ while (loop || !hasRun)
         UseShellExecute = true
     });
 
-    Console.WriteLine("Proceed?\n(Y/n)");
-    string proceed = Console.ReadLine();
+    if (loop)
+    {
+        Console.WriteLine("Proceed?\n(Y/n)");
+        string proceed = Console.ReadLine();
+    }
 
     if (proceed.ToLower().Contains("n") || proceed.ToLower().Contains("exit"))
         return;
